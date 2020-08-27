@@ -21,3 +21,13 @@ Include development environment
 - openjdk-14-jdk
 - mysql
 - redis
+
+Pull image from DockerHub
+```bash
+docker pull lixinyang/devenv
+```
+
+Pull image from Aliyun
+```bash
+docker pull registry.cn-shenzhen.aliyuncs.com/lllxy/devenv:latest
+```
