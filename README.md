@@ -2,6 +2,8 @@
 
 #### My container development environment.
 
+![Docker Image](https://github.com/lixinyang123/DevEnv/workflows/Docker%20Image%20CI/badge.svg)
+
 Include development tools
 - curl
 - wget
