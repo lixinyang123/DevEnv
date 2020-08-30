@@ -21,6 +21,7 @@ Include development environment
 - python3
 - python3-pip
 - openjdk-14-jdk
+- maven
 - mysql
 - redis
 
