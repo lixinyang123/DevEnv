@@ -24,6 +24,7 @@ Include development environment
 - maven
 - mysql
 - redis
+- mongodb
 
 Pull image from DockerHub
 ```bash
