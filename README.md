@@ -20,6 +20,7 @@ Include development environment
 - npm
 - python3
 - python3-pip
+- php
 - openjdk-14-jdk
 - maven
 - mysql
