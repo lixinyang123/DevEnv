@@ -1,8 +1,6 @@
 # DevEnv
 
-#### My container development environment.
-
-![Docker Image](https://github.com/lixinyang123/DevEnv/workflows/Docker%20Image%20CI/badge.svg)
+#### My CodeSpace development environment.
 
 Include development tools
 - curl
