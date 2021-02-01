@@ -7,14 +7,17 @@
 Include development tools
 - curl
 - wget
-- vim
 - git
 - openssh-client
 - mc
 - htop
 - tmux
+- spacevim
+- starship
 
 Include development environment
+- gcc
+- make
 - dotnet
 - nodejs
 - npm
