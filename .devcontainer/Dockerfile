@@ -35,5 +35,3 @@ RUN apt update && apt install apt-transport-https -y
 RUN apt update && apt install dotnet-sdk-5.0 -y
 
 RUN rm packages-microsoft-prod.deb
-
-ENTRYPOINT [ "bash" ]
