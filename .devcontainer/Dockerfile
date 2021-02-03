@@ -25,7 +25,7 @@ RUN ln -s /bin/python3 /bin/python
 
 RUN ln -s /bin/pip3 /bin/pip
 
-# #install dotnet
+#install dotnet
 RUN wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
 
 RUN dpkg -i packages-microsoft-prod.deb
