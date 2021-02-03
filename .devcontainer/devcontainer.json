@@ -10,7 +10,5 @@
 
 	"extensions": [
 		"ms-dotnettools.csharp"
-	],
-
-	"remoteUser": "vscode"
+	]
 }
