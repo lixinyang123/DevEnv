@@ -34,4 +34,4 @@ RUN echo 'eval "$(starship init bash)"' >> ~/.bashrc
 
 # RUN apt update && apt install dotnet-sdk-5.0 -y
 
-RUN rm packages-microsoft-prod.deb
+# RUN rm packages-microsoft-prod.deb
