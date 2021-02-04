@@ -22,6 +22,7 @@ Include development environment
 - python3
 - python3-pip
 - php
+- golang
 - openjdk-14-jdk
 - maven
 - mysql
