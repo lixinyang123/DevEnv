@@ -1,14 +1,26 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.191.0/containers/dotnetcore
 {
-	"name": "My Devenv",
+	"name": "dotnet",
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
 
-	"settings": {
-		"terminal.integrated.shell.linux": "/bin/bash"
-	},
+	"settings": { },
 
 	"extensions": [
-		"ms-dotnettools.csharp"
-	]
+		"ms-dotnettools.csharp",
+		"ritwickdey.liveserver",
+		"zhuangtongfa.material-theme",
+		"visualstudioexptteam.vscodeintellicode"
+	],
+
+	"portsAttributes": {
+		"5000": {
+			"label": "Hello Remote World",
+			"onAutoForward": "notify"
+		}
+	},
+
+	"remoteUser": "vscode"
 }
