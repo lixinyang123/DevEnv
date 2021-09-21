@@ -12,7 +12,8 @@
 		"ms-dotnettools.csharp",
 		"ritwickdey.liveserver",
 		"zhuangtongfa.material-theme",
-		"visualstudioexptteam.vscodeintellicode"
+		"visualstudioexptteam.vscodeintellicode",
+		"ms-vsliveshare.vsliveshare"
 	],
 
 	"portsAttributes": {
